@@ -1,0 +1,13 @@
+pandas
+openpyxl
+matplotlib
+plotly
+seaborn
+plotnine
+pygal
+bokeh
+altair
+ipyvizzu
+cairosvg
+selenium
+kaleido
